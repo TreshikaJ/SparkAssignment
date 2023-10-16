@@ -1,0 +1,9 @@
+23-01-2023,23.3,Udupi,India,21,55
+23-02-2023,25.3,Byndoor,India,25,34
+23-03-2023,43.3,Karkala,India,45,58
+23-04-2023,27.3,Udupi,India,21,55
+23-01-2023,23.9,Byndoor,India,21,54
+23-01-2023,13.9,Bangalore,India,22,54
+23-03-2023,34.9,Bangalore,India,22,54
+22-02-2023,14.9,Bangalore,India,22,54
+23-03-2023,24.9,Bangalore,India,22,54

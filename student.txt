@@ -1,0 +1,7 @@
+Treshika,MSIS,BigData,Female
+Amithash,MIT,VLSI,Male
+Aditya,MIT,VLSI,Male
+Nidhi,MSIS,BigData,Female
+Sahana,MSIS,CLoud,Female
+Anmol,MIT,Cybersecurity,Male
+Ahana,MIT,Civil,Female
